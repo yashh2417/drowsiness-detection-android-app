@@ -1,0 +1,71 @@
+org/tensorflow/lite/examples/detection/env/Utils.java
+ org.tensorflow.lite.examples.detection.env.Utils
+org/tensorflow/lite/examples/detection/tflite/DetectorFactory.java
+ org.tensorflow.lite.examples.detection.tflite.DetectorFactory
+org/tensorflow/lite/examples/detection/tflite/YoloV5ClassifierDetect.java
+ org.tensorflow.lite.examples.detection.tflite.YoloV5ClassifierDetect
+ org.tensorflow.lite.examples.detection.tflite.YoloV5ClassifierDetect$1
+org/tensorflow/lite/examples/detection/tracking/MultiBoxTracker.java
+ org.tensorflow.lite.examples.detection.tracking.MultiBoxTracker
+ org.tensorflow.lite.examples.detection.tracking.MultiBoxTracker$1
+ org.tensorflow.lite.examples.detection.tracking.MultiBoxTracker$TrackedRecognition
+org/tensorflow/lite/examples/detection/tflite/Classifier.java
+ org.tensorflow.lite.examples.detection.tflite.Classifier
+ org.tensorflow.lite.examples.detection.tflite.Classifier$Recognition
+org/tensorflow/lite/examples/detection/customview/AutoFitTextureView.java
+ org.tensorflow.lite.examples.detection.customview.AutoFitTextureView
+org/tensorflow/lite/examples/detection/env/Size.java
+ org.tensorflow.lite.examples.detection.env.Size
+org/tensorflow/lite/examples/detection/tflite/YoloV5Classifier.java
+ org.tensorflow.lite.examples.detection.tflite.YoloV5Classifier
+ org.tensorflow.lite.examples.detection.tflite.YoloV5Classifier$1
+org/tensorflow/lite/examples/detection/env/BorderedText.java
+ org.tensorflow.lite.examples.detection.env.BorderedText
+org/tensorflow/lite/examples/detection/customview/OverlayView.java
+ org.tensorflow.lite.examples.detection.customview.OverlayView
+ org.tensorflow.lite.examples.detection.customview.OverlayView$DrawCallback
+org/tensorflow/lite/examples/detection/DetectorActivity.java
+ org.tensorflow.lite.examples.detection.DetectorActivity
+ org.tensorflow.lite.examples.detection.DetectorActivity$1
+ org.tensorflow.lite.examples.detection.DetectorActivity$2
+ org.tensorflow.lite.examples.detection.DetectorActivity$2$1
+ org.tensorflow.lite.examples.detection.DetectorActivity$3
+ org.tensorflow.lite.examples.detection.DetectorActivity$DetectorMode
+org/tensorflow/lite/examples/detection/customview/RecognitionScoreView.java
+ org.tensorflow.lite.examples.detection.customview.RecognitionScoreView
+org/tensorflow/lite/examples/detection/CameraConnectionFragment.java
+ org.tensorflow.lite.examples.detection.CameraConnectionFragment
+ org.tensorflow.lite.examples.detection.CameraConnectionFragment$1
+ org.tensorflow.lite.examples.detection.CameraConnectionFragment$2
+ org.tensorflow.lite.examples.detection.CameraConnectionFragment$3
+ org.tensorflow.lite.examples.detection.CameraConnectionFragment$4
+ org.tensorflow.lite.examples.detection.CameraConnectionFragment$5
+ org.tensorflow.lite.examples.detection.CameraConnectionFragment$CompareSizesByArea
+ org.tensorflow.lite.examples.detection.CameraConnectionFragment$ConnectionCallback
+ org.tensorflow.lite.examples.detection.CameraConnectionFragment$ErrorDialog
+ org.tensorflow.lite.examples.detection.CameraConnectionFragment$ErrorDialog$1
+org/tensorflow/lite/examples/detection/LegacyCameraConnectionFragment.java
+ org.tensorflow.lite.examples.detection.LegacyCameraConnectionFragment
+ org.tensorflow.lite.examples.detection.LegacyCameraConnectionFragment$1
+org/tensorflow/lite/examples/detection/env/Logger.java
+ org.tensorflow.lite.examples.detection.env.Logger
+org/tensorflow/lite/examples/detection/customview/ResultsView.java
+ org.tensorflow.lite.examples.detection.customview.ResultsView
+org/tensorflow/lite/examples/detection/BuildConfig.java
+ org.tensorflow.lite.examples.detection.BuildConfig
+org/tensorflow/lite/examples/detection/CameraActivity.java
+ org.tensorflow.lite.examples.detection.CameraActivity
+ org.tensorflow.lite.examples.detection.CameraActivity$1
+ org.tensorflow.lite.examples.detection.CameraActivity$2
+ org.tensorflow.lite.examples.detection.CameraActivity$3
+ org.tensorflow.lite.examples.detection.CameraActivity$4
+ org.tensorflow.lite.examples.detection.CameraActivity$5
+ org.tensorflow.lite.examples.detection.CameraActivity$6
+ org.tensorflow.lite.examples.detection.CameraActivity$7
+ org.tensorflow.lite.examples.detection.CameraActivity$8
+ org.tensorflow.lite.examples.detection.CameraActivity$9
+org/tensorflow/lite/examples/detection/MainActivity.java
+ org.tensorflow.lite.examples.detection.MainActivity
+ org.tensorflow.lite.examples.detection.MainActivity$1
+org/tensorflow/lite/examples/detection/env/ImageUtils.java
+ org.tensorflow.lite.examples.detection.env.ImageUtils

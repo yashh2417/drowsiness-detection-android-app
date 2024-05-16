@@ -1,0 +1,86 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.tensorflow.lite.examples.detection"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:6:5-17
+8        android:minSdkVersion="21"
+8-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:6:5-17
+9        android:targetSdkVersion="28" />
+9-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:6:5-17
+10    <!-- Tell the system this app requires OpenGL ES 3.1. -->
+11    <uses-feature
+11-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:4:5-78
+12        android:glEsVersion="0x00030001"
+12-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:4:19-51
+13        android:required="true" />
+13-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:4:52-75
+14
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:8:5-65
+15-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:8:22-62
+16
+17    <uses-feature android:name="android.hardware.camera" />
+17-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:10:5-60
+17-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:10:19-57
+18    <uses-feature android:name="android.hardware.camera.autofocus" />
+18-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:11:5-70
+18-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:11:19-67
+19
+20    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+20-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:12:5-80
+20-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:12:22-78
+21    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+21-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:13:5-79
+21-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:13:22-77
+22    <uses-permission android:name="android.permission.INTERNET" />
+22-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:14:5-66
+22-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:14:22-64
+23
+24    <application
+24-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:16:5-37:19
+25        android:allowBackup="false"
+25-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:17:9-36
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-2/files-2.1/6f6d3320b908191ddc0e45d45816ff32/core-1.1.0/AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+27-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:24:9-34
+28        android:hardwareAccelerated="true"
+28-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:23:9-43
+29        android:icon="@mipmap/ic_launcher"
+29-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:18:9-43
+30        android:installLocation="internalOnly"
+30-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:25:9-47
+31        android:label="@string/tfe_od_app_name"
+31-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:19:9-48
+32        android:roundIcon="@mipmap/ic_launcher_round"
+32-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:20:9-54
+33        android:supportsRtl="true"
+33-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:21:9-35
+34        android:testOnly="true"
+35        android:theme="@style/AppTheme.ObjectDetection" >
+35-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:22:9-56
+36        <activity
+36-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:27:9-35:20
+37            android:name="org.tensorflow.lite.examples.detection.DetectorActivity"
+37-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:28:13-45
+38            android:label="@string/tfe_od_app_name"
+38-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:29:13-52
+39            android:screenOrientation="portrait" >
+39-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:30:13-49
+40            <intent-filter>
+40-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:31:13-34:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:32:17-69
+41-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:32:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:33:17-77
+43-->/Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:33:27-74
+44            </intent-filter>
+45        </activity>
+46    </application>
+47
+48</manifest>

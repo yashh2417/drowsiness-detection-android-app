@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:1:1-37:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/834fe351e58124f710235015f0da7c28/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/2086b383c84e9b64da2852e01db7c0c1/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/18fd078caecd4ae8fff4f7d9b3e473f0/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] /Users/yash/Library/Android/sdk/caches/transforms-3/bc72c5a9be88694de9e8e879efb85d3a/transformed/jetified-tensorflow-lite-2.4.0/AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.4.0] /Users/yash/Library/Android/sdk/caches/transforms-3/0071357ffa9b5489bb65a4f48845772f/transformed/jetified-tensorflow-lite-gpu-2.4.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/yash/Library/Android/sdk/caches/transforms-3/6d69f913f776db787f07836d8cd9f675/transformed/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/1592cef2f1a95704aba8312f4c809d9f/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/f5a550547a9158f385be8250318cf806/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/e44298a814e60d3bea9ffab267d48079/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/12392ed8e54471ad4e904f76ecac9589/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/05a025bfa0ccd76f7d978bf1e07bf954/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/781e1e58e320987ac520bc143f872ad9/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/cc7fc86f54f0e20009a5eeafac6b32ab/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/yash/Library/Android/sdk/caches/transforms-3/6f57ab8b41c1936e2c3f1f9c2c02ee56/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/506edb5b67a9b4c6ceef437de31304fa/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/11fac36f8084bf681ed5291b44a79a31/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/b4407d9e5028289239d26a95fb26204e/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/d73034f891e7c72cd26f98ee08ffb6b9/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/34db10bc315534703562cc753e5e7a14/transformed/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/40824440b39b5a2325dc3e536943aff3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/12d72a4c9b4e9a3eee3c054549dce01f/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/21677a0caf1791f456ad27d9a1ff50a3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/9ff149e1ce92ffe14189373ed966f9aa/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/af2dd6bbbe6d805a6abb08855b52b334/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/9dd05dc7151c05da5b6f7a4c9177775e/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/7c0c575611723025ef294870a09f54ef/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/a6ce452eeef7667b311ae238d31b1880/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/00f1dd0321224b27d712f33cc25b05fa/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/869e99745c062f6fbe0525018c8816dd/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:1:1-37:12
+	package
+		INJECTED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-feature#0x00030001
+ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:3:5-78
+	android:glEsVersion
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:3:19-51
+	android:required
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:3:52-75
+uses-sdk
+ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:5:5-17
+INJECTED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:5:5-17
+INJECTED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:5:5-17
+MERGED from [com.google.android.material:material:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/834fe351e58124f710235015f0da7c28/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/834fe351e58124f710235015f0da7c28/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/2086b383c84e9b64da2852e01db7c0c1/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/2086b383c84e9b64da2852e01db7c0c1/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/18fd078caecd4ae8fff4f7d9b3e473f0/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/18fd078caecd4ae8fff4f7d9b3e473f0/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] /Users/yash/Library/Android/sdk/caches/transforms-3/bc72c5a9be88694de9e8e879efb85d3a/transformed/jetified-tensorflow-lite-2.4.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] /Users/yash/Library/Android/sdk/caches/transforms-3/bc72c5a9be88694de9e8e879efb85d3a/transformed/jetified-tensorflow-lite-2.4.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.4.0] /Users/yash/Library/Android/sdk/caches/transforms-3/0071357ffa9b5489bb65a4f48845772f/transformed/jetified-tensorflow-lite-gpu-2.4.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.4.0] /Users/yash/Library/Android/sdk/caches/transforms-3/0071357ffa9b5489bb65a4f48845772f/transformed/jetified-tensorflow-lite-gpu-2.4.0/AndroidManifest.xml:7:5-8:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/yash/Library/Android/sdk/caches/transforms-3/6d69f913f776db787f07836d8cd9f675/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/yash/Library/Android/sdk/caches/transforms-3/6d69f913f776db787f07836d8cd9f675/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/1592cef2f1a95704aba8312f4c809d9f/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/1592cef2f1a95704aba8312f4c809d9f/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/f5a550547a9158f385be8250318cf806/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/f5a550547a9158f385be8250318cf806/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/e44298a814e60d3bea9ffab267d48079/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/e44298a814e60d3bea9ffab267d48079/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/12392ed8e54471ad4e904f76ecac9589/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/12392ed8e54471ad4e904f76ecac9589/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/05a025bfa0ccd76f7d978bf1e07bf954/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/05a025bfa0ccd76f7d978bf1e07bf954/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/781e1e58e320987ac520bc143f872ad9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/781e1e58e320987ac520bc143f872ad9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/cc7fc86f54f0e20009a5eeafac6b32ab/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/cc7fc86f54f0e20009a5eeafac6b32ab/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/yash/Library/Android/sdk/caches/transforms-3/6f57ab8b41c1936e2c3f1f9c2c02ee56/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/yash/Library/Android/sdk/caches/transforms-3/6f57ab8b41c1936e2c3f1f9c2c02ee56/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/506edb5b67a9b4c6ceef437de31304fa/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/506edb5b67a9b4c6ceef437de31304fa/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/11fac36f8084bf681ed5291b44a79a31/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/11fac36f8084bf681ed5291b44a79a31/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/b4407d9e5028289239d26a95fb26204e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/b4407d9e5028289239d26a95fb26204e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/d73034f891e7c72cd26f98ee08ffb6b9/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/d73034f891e7c72cd26f98ee08ffb6b9/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/34db10bc315534703562cc753e5e7a14/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/34db10bc315534703562cc753e5e7a14/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/40824440b39b5a2325dc3e536943aff3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/40824440b39b5a2325dc3e536943aff3/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/12d72a4c9b4e9a3eee3c054549dce01f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/12d72a4c9b4e9a3eee3c054549dce01f/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/21677a0caf1791f456ad27d9a1ff50a3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/21677a0caf1791f456ad27d9a1ff50a3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/9ff149e1ce92ffe14189373ed966f9aa/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/9ff149e1ce92ffe14189373ed966f9aa/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/af2dd6bbbe6d805a6abb08855b52b334/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/af2dd6bbbe6d805a6abb08855b52b334/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/9dd05dc7151c05da5b6f7a4c9177775e/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/9dd05dc7151c05da5b6f7a4c9177775e/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/7c0c575611723025ef294870a09f54ef/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/7c0c575611723025ef294870a09f54ef/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/a6ce452eeef7667b311ae238d31b1880/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/a6ce452eeef7667b311ae238d31b1880/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/00f1dd0321224b27d712f33cc25b05fa/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/00f1dd0321224b27d712f33cc25b05fa/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/869e99745c062f6fbe0525018c8816dd/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yash/Library/Android/sdk/caches/transforms-3/869e99745c062f6fbe0525018c8816dd/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:5:5-17
+INJECTED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:5:5-17
+	android:targetSdkVersion
+		INJECTED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:5:5-17
+		INJECTED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:5:5-17
+		MERGED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:5:5-17
+		MERGED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:5:5-17
+		INJECTED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:7:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:9:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:10:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:13:22-64
+application
+ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:15:5-36:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/834fe351e58124f710235015f0da7c28/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/834fe351e58124f710235015f0da7c28/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] /Users/yash/Library/Android/sdk/caches/transforms-3/bc72c5a9be88694de9e8e879efb85d3a/transformed/jetified-tensorflow-lite-2.4.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] /Users/yash/Library/Android/sdk/caches/transforms-3/bc72c5a9be88694de9e8e879efb85d3a/transformed/jetified-tensorflow-lite-2.4.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.4.0] /Users/yash/Library/Android/sdk/caches/transforms-3/0071357ffa9b5489bb65a4f48845772f/transformed/jetified-tensorflow-lite-gpu-2.4.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.4.0] /Users/yash/Library/Android/sdk/caches/transforms-3/0071357ffa9b5489bb65a4f48845772f/transformed/jetified-tensorflow-lite-gpu-2.4.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/yash/Library/Android/sdk/caches/transforms-3/6d69f913f776db787f07836d8cd9f675/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/yash/Library/Android/sdk/caches/transforms-3/6d69f913f776db787f07836d8cd9f675/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/34db10bc315534703562cc753e5e7a14/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/34db10bc315534703562cc753e5e7a14/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/21677a0caf1791f456ad27d9a1ff50a3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/21677a0caf1791f456ad27d9a1ff50a3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/yash/Library/Android/sdk/caches/transforms-3/34db10bc315534703562cc753e5e7a14/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:18:9-48
+	android:hardwareAccelerated
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:22:9-43
+	android:debuggable
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:23:9-34
+	android:roundIcon
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:19:9-54
+	android:installLocation
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:24:9-47
+	android:icon
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:16:9-36
+	android:theme
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:21:9-56
+activity#org.tensorflow.lite.examples.detection.DetectorActivity
+ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:26:9-34:20
+	android:screenOrientation
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:29:13-49
+	android:label
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:28:13-52
+	android:name
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:27:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/yash/Desktop/Drowsiness/yolov5/android/app/src/main/AndroidManifest.xml:32:27-74

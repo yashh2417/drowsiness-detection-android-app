@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.tensorflow.lite.examples.detection.app-mergeDebugResources-3:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/yash/Library/Android/sdk/caches/transforms-3/2086b383c84e9b64da2852e01db7c0c1/transformed/appcompat-1.1.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

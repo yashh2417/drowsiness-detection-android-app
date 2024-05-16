@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.tensorflow.lite.examples.detection.app-mergeDebugResources-3:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/yash/Library/Android/sdk/caches/transforms-3/2086b383c84e9b64da2852e01db7c0c1/transformed/appcompat-1.1.0/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
