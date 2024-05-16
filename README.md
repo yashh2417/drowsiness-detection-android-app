@@ -198,7 +198,7 @@ while cap.isOpened():
 cap.release()
 cv2.destroyAllWindows()
 ```
-<img src="https://raw.githubusercontent.com/yashh2417/faltu/main/Real-Time%20Detection%202.gif" > 
+<img src="https://raw.githubusercontent.com/yashh2417/faltu/main/Real-Time%20Detection%202.gif" width="100%" > 
 
 ## Convert the Model into tflite Model
 ```
